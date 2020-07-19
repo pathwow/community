@@ -1,6 +1,11 @@
-## 码匠社区
+## Git指令
 
-## 资料
-https://spring.io/guides
+git status
 
-## 工具
+git add .
+
+git commit -m "备注"
+
+git commit --amend --no-edit
+
+git push
